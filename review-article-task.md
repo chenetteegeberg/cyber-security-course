@@ -8,7 +8,7 @@ Empty line adds a paragraph break.
 
 URLs are rendered automatically, like http://TeroKarvinen.com
 
-Code is indented with four spaces (or a tab)
+Code is indented with four spaces (or a tab).
 
     $ ls
     hello-tero.md
