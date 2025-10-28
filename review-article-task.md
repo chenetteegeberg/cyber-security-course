@@ -21,7 +21,7 @@ The authors' research was essentially a very inclusive endeavour, as they sought
 
 The authors grouped the identified factors into four overall themes: Individual factors, Organizational factors, Technological factors, and the Governmental role. The individual and organizational factors was organized further into a number of subthemes. While technological and governmental factors probably could be developed further, this has seemingly not been the focus of the article
 
-Below is a thematic overview of the factors they found to influence the implementation of cyber security measures:
+Below is an overview of the themes they found for factors influencing the implementation of cyber security measures:
 
 - **Individual factors** – referring to employees’ personal factors that can impact their compliance
     - **Attitudes, behaviors and beliefs** related to cybersecurity influence the intention to comply
@@ -40,10 +40,10 @@ Below is a thematic overview of the factors they found to influence the implemen
 
 ## What are the open questions? 
 Based in the good practices identified from the included research, the authors proposed a cyber security implementation framework for organizations to continuously improve their cyber security measures and capabilities as shown in Figure 1 below.
-![Framework for improving cyber security](https://chenetteegebergregithub.io/cyber-security-course/Framework.png "Framework for improving cyber security" ) 
+![Framework for improving cyber security](https://chenetteegeberg.github.io/cyber-security-course/Framework.png "Framework for improving cyber security" ) 
 *Figure 1: Framework for cyber security improvement by Khaw, Tze Yin, Azlan Amran, and Ai Ping Teoh (2024)*
 
-The authors noted that more research is neeeded to help organizations in practise, and suggest that this framework outlines the themes that could be developed further. 
+The authors argued that more research is neeeded to help organizations in practice and more practically, so we need research that spans across industries and countries to develop more universal best practices, and they suggest that their proposed framework can serve as the base for further discussions and research for this purpose. 
 
 - **Involve employees in the development of cybersecurity strategies:** Employees are a key first line ressource for insights about the daily operations and actual usage of systems and data. These insights improves cybersecurity policies, ongoing risk identification, enables better mitigation plans, and in particularly increases the employees' engagement and ownership of cyber security measures, which in time develops a cyber security culture in the organization.
 - **Establish comprehensive cybersecurity policies and procedures:** Developing and maintaining clear and well-defined policies and procedures highlights security needs, deliniates clear roles and responsibilities which enables employees to better comply wth cyber security measures, improving security behaviours and hence improves compliance.
