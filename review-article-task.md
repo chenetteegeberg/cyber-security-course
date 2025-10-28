@@ -39,20 +39,20 @@ Below is a thematic overview of the factors they found to influence the implemen
 
 
 ## What are the open questions? 
-The authors propose a cyber security implementation framework for organizations to continuously improve their cyber security measures and capabilities based in what was identified as good practices from the included research.
-![Framework for improving cyber security](https://chenetteegeberg.github.io/cyber-security-course/Framework.png "Framework for improving cyber security" )
+Based in the good practices identified from the included research, the authors proposed a cyber security implementation framework for organizations to continuously improve their cyber security measures and capabilities as shown in Figure 1 below.
+![Framework for improving cyber security](https://chenetteegebergregithub.io/cyber-security-course/Framework.png "Framework for improving cyber security" ) *Figure 1: Framework for cyber security improvement by Khaw, Tze Yin, Azlan Amran, and Ai Ping Teoh (2024)*
 
-```{figure} ../Framework.png
----
-height: 150px
-name: directive-fig
----
-Here is my figure caption!
-```
-The authors argue that there is a lack of research that develop are instructive for companies, irrespective of industry or country
+The authors noted that more research is neeeded to help organizations in practise, and suggest that this framework outlines the themes that could be developed further. 
 
+- **Involve employees in the development of cybersecurity strategies:** Employees are a key first line ressource for insights about the daily operations and actual usage of systems and data. These insights improves cybersecurity policies, ongoing risk identificatio, enables better mitigation plans, and in particularly increases the employees' engagement and ownership of cyber security measures, which in time develops a cyber security culture.
+- 
+- **Establish comprehensive cybersecurity policies and procedures:** Developing and maintaining clear and well-defined policies and procedures highlights security needs, deliniates clear roles and responsibilities for employees to better comply, and contributes to the continued development of better cyber security capabilities.
+- **Provide training and education**.
+- **Strengthening support from top management**
+- Implement updated systems to enhance cybersecurity.
+- Form a cybersecurity monitoring team.
+- Review and update cybersecurity policies regularly.
 
-The 
 
 ## Source
 Khaw, Tze Yin, Azlan Amran, and Ai Ping Teoh (2024). "Building a Thematic Framework of Cybersecurity: A Systematic Literature Review Approach." Journal of Systems and Information Technology 26, no. 2 (2024): 234-256. https://doi.org/10.1108/JSIT-07-2023-0132.
