@@ -33,7 +33,7 @@ Below is a thematic overview of the factors they found to influence the implemen
     - **Training** as lack of training often is the root cause of poor compliance, whereas adequate training has a significant impact on all the individual factors, leading to improved compliance
     - **Cyber security policies** defining clear processes, strategies and responsibilities, that are established formally to ensure that employees understand their role.
     - **Leadership** refering to top management leading the way by example and by ensuring support for the development of cyber security capabilities.
-    - **Security monitoring team** - a formal team dedicated to cyber security, implementing close monitoring and security metrics, maintaining clear and open communication channels, and effective crises management.
+    - **Security monitoring team** - a formal team dedicated to cyber security
 - **Technological factors** – referring to factors like a mature IT infrastructure or technological expansion or operational control.
 - **Governmental role** – referring to the high influence of governments' regulatory pressure on companies implementing cyber security measures.
 
@@ -44,14 +44,13 @@ Based in the good practices identified from the included research, the authors p
 
 The authors noted that more research is neeeded to help organizations in practise, and suggest that this framework outlines the themes that could be developed further. 
 
-- **Involve employees in the development of cybersecurity strategies:** Employees are a key first line ressource for insights about the daily operations and actual usage of systems and data. These insights improves cybersecurity policies, ongoing risk identificatio, enables better mitigation plans, and in particularly increases the employees' engagement and ownership of cyber security measures, which in time develops a cyber security culture.
-- 
-- **Establish comprehensive cybersecurity policies and procedures:** Developing and maintaining clear and well-defined policies and procedures highlights security needs, deliniates clear roles and responsibilities for employees to better comply, and contributes to the continued development of better cyber security capabilities.
-- **Provide training and education**.
-- **Strengthening support from top management**
-- Implement updated systems to enhance cybersecurity.
-- Form a cybersecurity monitoring team.
-- Review and update cybersecurity policies regularly.
+- **Involve employees in the development of cybersecurity strategies:** Employees are a key first line ressource for insights about the daily operations and actual usage of systems and data. These insights improves cybersecurity policies, ongoing risk identification, enables better mitigation plans, and in particularly increases the employees' engagement and ownership of cyber security measures, which in time develops a cyber security culture in the organization.
+- **Establish comprehensive cybersecurity policies and procedures:** Developing and maintaining clear and well-defined policies and procedures highlights security needs, deliniates clear roles and responsibilities which enables employees to better comply wth cyber security measures, improving security behaviours and hence improves compliance.
+- **Provide training and education** Employees are often the weakest link in any cyber security setting, so organizations should regularly train all employees about cyber security, threats and the company's cyber security policies and procedures. Training is critical for creating awareness and developing the needed skills and knowledge. This development leads to improved attitudes, more self-efficacy and better confident knowledge, which all lead to improved compliance.
+- **Strengthening support from top management** Top management must ensure organizational commitment to cyber security and establish the needed support and ressources. The leadership must foster a culture that values continued cyber security improvements, trust between supervisers and employees, and endorse subordinates initiatives for improvements. 
+- **Implement updated systems to enhance cybersecurity:** The organization must invest in staying up to date with all systems and technology trends to ensure optimal compliance, and tehcnical defences agains threats. Howver, they must seek to consider the users experience when implementing new technical cyber security measures, and seek user-friendlyness to ensure continued compliance and engagement from employees.
+- **Form a cybersecurity monitoring team:** a formal team dedicated to cyber security, responsible for continued improvement, implementing close monitoring and security metrics, maintaining clear and open communication channels, and being responsible for effective crisis plans and management.
+- **Review and update cybersecurity policies regularly:** Reviewing and maintaining policies by reviewing the policies for weaknesses, identifyng against new constantly evolving threats and responding upcoming regulations, is the foundation for continued development of better cyber security measures and capabilities.
 
 
 ## Source
