@@ -40,7 +40,7 @@ Below is a thematic overview of the factors they found to influence the implemen
 
 ## What are the open questions? 
 The authors propose a cyber security implementation framework for organizations to continuously improve their cyber security measures and capabilities based in what has been identified to be good practices from the included research.
-![Framework for improving cyber security](https://github.com/chenetteegeberg/cyber-security-course/main/Framework.png "Framework for improving cyber security")
+![Framework for improving cyber security](https://chenetteegeberg.github.io/cyber-security-course/Framework.png "Framework for improving cyber security")
 
 The authors argue that there is a lack of research that develop are instructive for companies, irrespective of industry or country
 
