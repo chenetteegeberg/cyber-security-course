@@ -39,8 +39,10 @@ Below is a thematic overview of the factors they found to influence the implemen
 
 
 ## What are the open questions? 
-Based on the research, the authors propose a cyber security implementation framework, for organizations to continuously develop their cyber security measures and capabilities basd in what has been found to be good practices.
+The authors propose a cyber security implementation framework for organizations to continuously improve their cyber security measures and capabilities based in what has been identified to be good practices from the included research.
+
 The authors argue that there is a lack of research that develop are instructive for companies, irrespective of industry or country
+
 
 The 
 
