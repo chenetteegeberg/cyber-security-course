@@ -40,7 +40,8 @@ Below is a thematic overview of the factors they found to influence the implemen
 
 ## What are the open questions? 
 Based in the good practices identified from the included research, the authors proposed a cyber security implementation framework for organizations to continuously improve their cyber security measures and capabilities as shown in Figure 1 below.
-![Framework for improving cyber security](https://chenetteegebergregithub.io/cyber-security-course/Framework.png "Framework for improving cyber security" ) *Figure 1: Framework for cyber security improvement by Khaw, Tze Yin, Azlan Amran, and Ai Ping Teoh (2024)*
+![Framework for improving cyber security](https://chenetteegebergregithub.io/cyber-security-course/Framework.png "Framework for improving cyber security" ) 
+*Figure 1: Framework for cyber security improvement by Khaw, Tze Yin, Azlan Amran, and Ai Ping Teoh (2024)*
 
 The authors noted that more research is neeeded to help organizations in practise, and suggest that this framework outlines the themes that could be developed further. 
 
