@@ -41,16 +41,23 @@ Below is an overview of the themes they found for factors influencing the implem
 ## What are the open questions? 
 Based in the good practices identified from the included research, the authors proposed a cyber security implementation framework for organizations to continuously improve their cyber security measures and capabilities as shown in Figure 1 below.
 ![Framework for improving cyber security](https://chenetteegeberg.github.io/cyber-security-course/Framework.png "Framework for improving cyber security") 
+
 *Figure 1: Framework for cyber security improvement by Khaw, Tze Yin, Azlan Amran, and Ai Ping Teoh (2024)*
 
 The authors argued that more research is neeeded to help organizations in practice and more practically, so we need research that spans across industries and countries to develop more universal best practices, and they suggest that their proposed framework can serve as the base for further discussions and research for this purpose. 
 
 - **Involve employees in the development of cybersecurity strategies:** Employees are a key first line ressource for insights about the daily operations and actual usage of systems and data. These insights improves cybersecurity policies, ongoing risk identification, enables better mitigation plans, and in particularly increases the employees' engagement and ownership of cyber security measures, which in time develops a cyber security culture in the organization.
+  
 - **Establish comprehensive cybersecurity policies and procedures:** Developing and maintaining clear and well-defined policies and procedures highlights security needs, deliniates clear roles and responsibilities which enables employees to better comply wth cyber security measures, improving security behaviours and hence improves compliance.
+  
 - **Provide training and education** Employees are often the weakest link in any cyber security setting, so organizations should regularly train all employees about cyber security, threats and the company's cyber security policies and procedures. Training is critical for creating awareness and developing the needed skills and knowledge. This development leads to improved attitudes, more self-efficacy and better confident knowledge, which all lead to improved compliance.
-- **Strengthening support from top management** Top management must ensure organizational commitment to cyber security and establish the needed support and ressources. The leadership must foster a culture that values continued cyber security improvements, trust between supervisers and employees, and endorse subordinates initiatives for improvements. 
+  
+- **Strengthening support from top management** Top management must ensure organizational commitment to cyber security and establish the needed support and ressources. The leadership must foster a culture that values continued cyber security improvements, trust between supervisers and employees, and endorse subordinates initiatives for improvements.
+  
 - **Implement updated systems to enhance cybersecurity:** The organization must invest in staying up to date with all systems and technology trends to ensure optimal compliance, and tehcnical defences agains threats. Howver, they must seek to consider the users experience when implementing new technical cyber security measures, and seek user-friendlyness to ensure continued compliance and engagement from employees.
+  
 - **Form a cybersecurity monitoring team:** a formal team dedicated to cyber security, responsible for continued improvement, implementing close monitoring and security metrics, maintaining clear and open communication channels, and being responsible for effective crisis plans and management.
+  
 - **Review and update cybersecurity policies regularly:** Reviewing and maintaining policies by reviewing the policies for weaknesses, identifyng against new constantly evolving threats and responding upcoming regulations, is the foundation for continued development of better cyber security measures and capabilities.
 
 
