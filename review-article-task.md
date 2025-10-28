@@ -5,11 +5,11 @@ The article can be accessed via [Haaga-Helia Finna](https://haaga-helia.finna.fi
 
 ## What are the key areas being researched?
 
-The purpose of the reviewed article was to develop a framework to help practitioners and researchers to improve cyber security implementation practices, based on an extensive systematic review.
+The purpose of the reviewed article was use an extensive systematic review to develop a framework to help practitioners and researchers to improve cyber security implementation practices, based on 
 
-In order do this, the authours reviewed past empirical research, published in peer-reviewed articles in the period from 2014 to 2023. Their aim was to explore the factors that influence the implementation of cyber security measures in organizations.
+In order do this, the authours reviewed past research, published in peer-reviewed articles in the period from 2014 to 2023. Their aim was to explore the factors that influence the implementation of cyber security measures in organizations.
 
-After the systematic selection process was completed, the authors based the research on 50 articles from a number of different countries, with around half of the articles published since 2022.
+After the systematic selection process was completed, the authors based the research on 50 articles, containing empirical research from various countries, with around half of the articles published since 2022.
 
 These were the research questions:
 - RQ1. What factors influence cybersecurity implementation in organizations? 
@@ -38,10 +38,11 @@ Below is a thematic overview of the factors they found to influence the implemen
 - **Governmental role** – referring to the high influence of governments' regulatory pressure on companies implementing cyber security measures.
 
 
-While it is clear that technological factors naturally could be developed further, the authors delved deeper into the personal and organizational factors
-
 ## What are the open questions? 
+Based on the research, the authors propose a cyber security implementation framework, for organizations to continuously develop their cyber security measures and capabilities basd in what has been found to be good practices.
+The authors argue that there is a lack of research that develop are instructive for companies, irrespective of industry or country
 
+The 
 
 ## Source
 Khaw, Tze Yin, Azlan Amran, and Ai Ping Teoh (2024). "Building a Thematic Framework of Cybersecurity: A Systematic Literature Review Approach." Journal of Systems and Information Technology 26, no. 2 (2024): 234-256. https://doi.org/10.1108/JSIT-07-2023-0132.
