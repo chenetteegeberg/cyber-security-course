@@ -7,15 +7,22 @@ The article can be accessed via [Haaga-Helia Finna](https://haaga-helia.finna.fi
 
 The purpose of the reviewed article was to develop a framework to help practitioners and researchers to improve cyber security implementation practices, based on an extensive systematic review.
 
-In order do this, the authours sought to explore the factors that influence the implementation of cyber security measures in organizations, by reviewing past empirical research from across various countries, that had been published in peer-reviewed articles in the period from 2014 to 2023.
+In order do this, the authours explored the factors that influence the implementation of cyber security measures in organizations, by reviewing past empirical research from across various countries, that had been published in peer-reviewed articles in the period from 2014 to 2023.
 
-The authors grouped the identified factors into four overall themes:
-- **Individual factors** – referring to employees’ characteristics which can impact their compliance
-    - Attitudes, behaviour, and beliefs toward cybersecurity
-    - Self-efficacy and belief in ability to adhere to policies 
+The authors grouped the identified factors into four overall themes, with a number of subthemes highlighted:
+- **Individual factors** – referring to employees’ personal factors that can impact their compliance
+    - **Attitudes, behaviors and beliefs** related to cybersecurity influence the intention to comply
+    - **Perception of power**:  **Self-efficacy** - an employees belief in his/her ability to comply, and his/her percieved **locus of control** - the employees belief that his/her actions have an impact.
+    - **Awareness** of cybersecurity risks promote more compliance, increase emplyees' motivation to comply, helps to mitigate threats, and lead to the implementaition of more effective cyber security practices and risk management strategies
+    - **Knowledge** in terms of having employees having enough knowledge about cyber security, as well as ensuring that employees know the company's information security policies and procedures.
 - **Organizational factors** – referring to the organizational characteristics, norms, practices or actions that can influence the implementation of cyber security measures
-- **Technological factors** – referring to factors like the IT infrastructure or technological expansion or operational control
-- **Governmental role** – referring to the influence of governments regulatory pressure on cyber security
+    - **Organizational culture** that is supportive for cyber security, for example where employees have a sense of shared responsibility
+    - **Training** as lack of training often is the root cause of poor compliance, whereas adequate training has a significant impact on all the individual factors, leading to improved compliance
+    - **Cyber security policies** defining clear processes, strategies and responsibilities, that are established formally to ensure that employees understand their role.
+    - **Leadership** refering to top management leading the way by example and by ensuring support for the development of cyber security capabilities.
+    - **Security monitoring team** - a formal team dedicated to cyber security, implementing close monitoring and security metrics, maintaining clear and open communication channels, and effective crises management.
+- **Technological factors** – referring to factors like a mature IT infrastructure or technological expansion or operational control.
+- **Governmental role** – referring to the high influence of governments' regulatory pressure on companies implementing cyber security measures.
 
 
 
