@@ -1,6 +1,10 @@
-# a) Darknet Diaries Podcast summary: Synthetic Remittance from September 20, 2022
-https://open.spotify.com/episode/5M4ghNl16ZA3Cnx41KWQRy?si=2ead39bbfa874caf
+# a) Darknet Diaries Podcast Summary: Synthetic Remittance 
+September 20, 2022 
 *What do you get when you combine social engineering, email, crime, finance, and the money stream flowing through big tech? Evaldas Rimašauskas comes to mind. He combined all these to make his big move. A whale of a move.*
+
+Jack Rhysider
+
+https://open.spotify.com/episode/5M4ghNl16ZA3Cnx41KWQRy?si=2ead39bbfa874caf 
 
 **Targets:** 
 Facebook and Google, but main focus in the Podcast is on Facebook
@@ -18,8 +22,9 @@ Evaldas Rimasauskas, a Lithuanian national.
 - Social engineering, Business email comprimise (BEC), Forgery, Wire Fraud
 
 ## How it happened
-- Evaldas and his team **Used social engineering** through **many contacts over a longer period of time** to collect bits and pieces of information, starting from making regular customer service calls asking innocent questions about how the company paid bills, for example by pretending to be publically known contractors, or contacting publically known contracters.
-- As they got more information, they could ude the information to get more information from people higher up in the chain, and so on and so on.
+- Evaldas and his team **Used social engineering** through **many contacts over a longer period of time** to collect bits and pieces of information
+- They started by making regular customer service calls asking innocent questions about who to contact or how bills were paid, for example by pretending to be publically known contractors, or contacting publically known contracters.
+- As they got more information, they could use the information to get more information from people higher up in the chain, and so on and so on.
 - Over time, this gave them all **the needed knowledge** about the **internal processes and company structure** related to accounting and paying bills, and **identified the relevant people and their contact info** and developed their insight of the internal **social structures**
 - They **identified a specific supplier** who Facebook frequently would pay invoices to - Quanta Computer, Taiwan, from public information 
 - They **created a fake company** registered in Latvia **with the same name** as Quanta Computer, and registered a **similar domain**
@@ -39,7 +44,25 @@ Evaldas Rimasauskas, a Lithuanian national.
 - Some technical action could be done to avoid this, like tools that automatically recognize/block e-mails from lookalike/new/false domains
 - Cyber security is everyones responsibility
 
-# b) Blog Article Summary
+# b) Blog Article Summary: Why Take9 Won't Improve Cybersecurity
+May 28, 2025
+*The latest cybersecurity awareness campaign asks users to pause for nine seconds before clicking — but this approach misplaces responsibility and ignores the real problems of system design.*
+
+Bruce Schneier, Arun Vishwanath
+
+https://www.darkreading.com/cybersecurity-operations/why-take9-will-not-improve-cybersecurity
+
+
+
+
+# c) Application of theories/models
+
+In the case of the attach on Google and Facebook, is a very good illustration of how each part of the triad of Cyber security protection matters. 
+**Tech
+
+
+
+
 Darknet Diaries
 Episode 159 Vastaamo
 https://open.spotify.com/episode/2GrOQ1x3KKPStBhpTKlpFx?si=8ef919b040ac4f47
