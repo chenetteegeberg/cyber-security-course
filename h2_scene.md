@@ -1,7 +1,7 @@
 # a) Darknet Diaries Podcast Summary: Synthetic Remittance 
 *"What do you get when you combine social engineering, email, crime, finance, and the money stream flowing through big tech? Evaldas Rimašauskas comes to mind. He combined all these to make his big move. A whale of a move."*  
 
-Episode 124 from September 20, 2022 by Jack Rhysider
+Episode 124 from September 20, 2022 by Jack Rhysider 
 https://open.spotify.com/episode/5M4ghNl16ZA3Cnx41KWQRy?si=2ead39bbfa874caf 
 
 
