@@ -98,6 +98,8 @@ Darknet Diaries Podcast Episode 124 from September 20, 2022 by Jack Rhysider: Sy
 
 Schmitt, M., & Flechais, I. (2024). Digital deception: Generative artificial intelligence in social engineering and phishing. The Artificial intelligence review, 57(12), 324. https://doi.org/10.1007/s10462-024-10973-2. https://link.springer.com/article/10.1007/s10462-024-10973-2 
 
-Mitnick Security: The History of Social Engineering. https://www.mitnicksecurity.com/the-history-of-social-engineering
+Lopes, A., Mamede, H. S., Reis, L., & Santos, A. (2024). Common Techniques, Success Attack Factors and Obstacles to Social Engineering: A Systematic Literature Review. Emerging science journal, 8(2), 761-794. https://doi.org/10.28991/ESJ-2024-08-02-025. https://doaj.org/article/c67ded3092f54e96a942209c1d404cdc
 
 Adams, A., & Sasse, M. A. (1999). Users are not the enemy. Communications of the ACM, 42(12), 40-46. https://doi.org/10.1145/322796.322806. https://cacm.acm.org/research/users-are-not-the-enemy
+
+Mitnick Security: The History of Social Engineering. https://www.mitnicksecurity.com/the-history-of-social-engineering
