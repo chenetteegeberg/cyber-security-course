@@ -49,15 +49,15 @@ The blog post is about the Take9 cyber security awareness campaign, which tells 
 - The authors argue that Take9 won’t make people or systems safer, because it asks users to fix a problem that comes from poor system design, not lack of patience.
 - They highlight that this kind of advice is not realistic — no one can pause that long hundreds of times a day and that similar ideas like “Stop. Think. Connect.” have already failed in the past.
 - They say that problem isn’t that people act too fast, but that they don’t have enough knowledge or context to tell what’s safe and what isn’t.
-- The authors refer to the SCAM model (Suspicion, Cognition, Automaticity) — showing that real awareness requires helping people understand risks, not just telling them to pause 
+- The authors refer to the SCAM model (Suspicion, Cognition, Automaticity), showing that real awareness requires helping people understand risks, not just telling them to pause 
 - They also highlight that modern phishing and scams are so advanced that even experts can be fooled, so no one can be perfectly trained to resist.
 - And people cannot be expected to check everything themselves — just like we don’t check airplane engines before flying or restaurant kitchens before eating.
+- Instead they refer to what security researcher Angela Sasse first said in 1999: "Users are not the enemy."
 
 ## Conclusive message
-- The authors argue that cybersecurity should not blame users for bad system design
-- People cannot be expected to check everything themselves — just like we don’t check airplane engines or restaurant kitchens before use.
-- Instead they refer to what security researcher Angela Sasse first said in 1999: "Users are not the enemy."
-- Real security improvement needs better system design, clearer safeguards, and policies that protect users, not campaigns that make them feel responsible for failures.
+- Campaigns like Take9 do not work, and only make users feel responsible for security failures
+- Cybersecurity should not blame users for bad system design
+- Real security improvement needs actual knowledge, better system design, clearer safeguards, and policies that actually protect users.
 
 # c) Application of theories/models
 
