@@ -61,23 +61,23 @@ The blog post is about the Take9 cyber security awareness campaign, which tells 
 
 # c) Application of theories/models
 
-## Social engineering and manipulation
+### Social engineering and manipulation
 The attack on Google and Facebook worked by manipulating people, not systems. 
 - Mitnick described social engineering as the art of manipulating people into doing things or giving away information.
 - Mitnick’s model of social engineering describes four steps: research, building trust, exploitation and exit. Evaldas followed these steps exactly.
 
-## Awareness and system design
+### Awareness and system design
 The case also shows that awareness alone could not prevent the deception because controls and cognitive support were missing.
 - In the Take9 article, the authors refer to the SCAM model (Suspicion, Cognition, Automaticity), explaining that users can be trained to notice unusual things but cannot be responsible for every decision.
 - This links with the principle from Angela Sasse and Anne Adams (1999) — “Users are not the enemy.” an that users should be treated as partners in security design, not blamed when systems fail.
 https://cacm.acm.org/research/users-are-not-the-enemy/
 
-## AI increases threat from modern social engineering
+### AI increases threat from modern social engineering
 - Schmitt & Flechais (2024) conduct a systematic review of social engineering and AI capabilities and use a theory of social engineering to identify three pillars where Generative AI amplifies the impact of social engineering attacks
 - They explored how generative AI makes social engineering stronger through fake but realistic content, advanced targeting and automated attacks.
 - This demonstrates the limitations of awareness-only campaigns and the growing need for holistic security that combines people, processes, and technology.
 
-## Conclusion cyber security protection must be holistic
+## Conclusion - cyber security protection must be holistic
 The attack clearly shows why all three areas of cybersecurity, technology, people, and processes, need to work together. 
 - Even technically advanced companies can be vulnerable when internal processes and policies fail. 
 - There are technological protections that could help prevent such attacks today, but in reality, technology alone will never be enough, because the goalpost is always moving.
