@@ -45,7 +45,7 @@ https://www.darkreading.com/cybersecurity-operations/why-take9-will-not-improve-
 
 The blog post is about the Take9 cyber security awareness campaign, which tells users to pause for nine seconds before taking online actions.
 
-## Main points made by the authors
+## Main points
 - The authors argue that Take9 won’t make people or systems safer, because it asks users to fix a problem that comes from poor system design, not lack of patience.
 - They highlight that this kind of advice is not realistic — no one can pause that long hundreds of times a day and that similar ideas like “Stop. Think. Connect.” have already failed in the past.
 - They say that problem isn’t that people act too fast, but that they don’t have enough knowledge or context to tell what’s safe and what isn’t.
@@ -61,6 +61,43 @@ The blog post is about the Take9 cyber security awareness campaign, which tells 
 
 # c) Application of theories/models
 
-In the case of the attach on Google and Facebook, is a very good illustration of how each part of the triad of Cyber security protection matters. 
-**Tech
+## Social engineering and manipulation
+The attack on Google and Facebook worked by manipulating people, not systems. 
+- Mitnick described social engineering as the art of manipulating people into doing things or giving away information.
+- Mitnick’s model of social engineering describes four steps: research, building trust, exploitation and exit. Evaldas followed these steps exactly.
 
+## Awareness and system design
+The case also shows that awareness alone could not prevent the deception because controls and cognitive support were missing.
+- In the Take9 article, the authors refer to the SCAM model (Suspicion, Cognition, Automaticity), explaining that users can be trained to notice unusual things but cannot be responsible for every decision.
+- This links with the principle from Angela Sasse and Anne Adams (1999) — “Users are not the enemy.” an that users should be treated as partners in security design, not blamed when systems fail.
+https://cacm.acm.org/research/users-are-not-the-enemy/
+
+## AI increases threat from modern social engineering
+- Schmitt & Flechais (2024) conduct a systematic review of social engineering and AI capabilities and use a theory of social engineering to identify three pillars where Generative AI amplifies the impact of social engineering attacks
+- They explored how generative AI makes social engineering stronger through fake but realistic content, advanced targeting and automated attacks.
+- This demonstrates the limitations of awareness-only campaigns and the growing need for holistic security that combines people, processes, and technology.
+
+## Holistic cyber security protection
+The attack clearly shows why all three areas of cybersecurity, technology, people, and processes, need to work together. 
+- Even technically advanced companies can be vulnerable when internal processes and policies fail. 
+- There are technological protections that could help prevent such attacks today, but in reality, technology alone will never be enough, because the goalpost is always moving.
+- For the same reason, people cannot know everything. Employees can be trained to be more suspicious (SCAM model) and aware of risks, but they cannot be expected to catch every threat, especially now when AI makes fake content, messages, and identities look more convincing than ever.
+
+## Conclusion cyber security protection must be holistic
+The attack clearly shows why all three areas of cybersecurity, technology, people, and processes, need to work together. 
+- Even technically advanced companies can be vulnerable when internal processes and policies fail. 
+- There are technological protections that could help prevent such attacks today, but in reality, technology alone will never be enough, because the goalpost is always moving.
+- For the same reason, people cannot know everything. Employees can be trained to be more suspicious (SCAM model) and aware of risks, but they cannot be expected to catch every threat, especially now when AI makes fake content, messages, and identities look more convincing than ever.
+Consequently, effective cybersecurity requires designing systems, policies, and processes that support human awareness and reduce opportunities for manipulation.
+
+# Sources
+
+Blog post from May 28, 2025 by Bruce Schneier, Arun Vishwanath: Why Take9 Won't Improve Cybersecurity. https://www.darkreading.com/cybersecurity-operations/why-take9-will-not-improve-cybersecurity
+
+Darknet Diaries Podcast Episode 124 from September 20, 2022 by Jack Rhysider: Synthetic Remittance. https://open.spotify.com/episode/5M4ghNl16ZA3Cnx41KWQRy?si=2ead39bbfa874caf 
+
+Schmitt, M., & Flechais, I. (2024). Digital deception: Generative artificial intelligence in social engineering and phishing. The Artificial intelligence review, 57(12), 324. https://doi.org/10.1007/s10462-024-10973-2. https://link.springer.com/article/10.1007/s10462-024-10973-2 
+
+Mitnick Security: The History of Social Engineering. https://www.mitnicksecurity.com/the-history-of-social-engineering
+
+Adams, A., & Sasse, M. A. (1999). Users are not the enemy. Communications of the ACM, 42(12), 40-46. https://doi.org/10.1145/322796.322806. https://cacm.acm.org/research/users-are-not-the-enemy
