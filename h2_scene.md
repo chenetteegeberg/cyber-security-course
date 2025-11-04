@@ -1,20 +1,23 @@
-# a) Podcast Summary
-
-## Darknet Diaries Podcast: Synthetic Remittance from September 20, 2022
+# a) Darknet Diaries Podcast summary: Synthetic Remittance from September 20, 2022
 https://open.spotify.com/episode/5M4ghNl16ZA3Cnx41KWQRy?si=2ead39bbfa874caf
 *What do you get when you combine social engineering, email, crime, finance, and the money stream flowing through big tech? Evaldas Rimašauskas comes to mind. He combined all these to make his big move. A whale of a move.*
 
-**Who:** Evaldas Rimasauskas, a Lithuanian national.
+**Targets:** 
+Facebook and Google, but main focus in the Podcast is on Facebook
 
-**When:** From 2012 – 2015; convicted in 2019.
+**What:** 
+Sent fraudulent invoices, contracts, and letters to Google and Facebook employees, impersonating the real supplier stealing 98 million USD from Facebook and 23 million USD from Google
 
-**Targets:** Facebook and Google, but main focus in the Podcast is on Facebook
+**When:** 
+From 2012 – 2015
 
-**What:** Sent fraudulent invoices, contracts, and letters to Google and Facebook employees, impersonating the real supplier stealing 98 million USD from Facebook and 23 million USD from Google
+**Who:** 
+Evaldas Rimasauskas, a Lithuanian national.
 
-**Methods:** Social engineering, Business email comprimise (BEC), Forgery, Wire Fraud
+**Methods:**
+- Social engineering, Business email comprimise (BEC), Forgery, Wire Fraud
 
-### How it happened
+## How it happened
 - Evaldas and his team **Used social engineering** through **many contacts over a longer period of time** to collect bits and pieces of information, starting from making regular customer service calls asking innocent questions about how the company paid bills, for example by pretending to be publically known contractors, or contacting publically known contracters.
 - As they got more information, they could ude the information to get more information from people higher up in the chain, and so on and so on.
 - Over time, this gave them all **the needed knowledge** about the **internal processes and company structure** related to accounting and paying bills, and **identified the relevant people and their contact info** and developed their insight of the internal **social structures**
@@ -24,13 +27,13 @@ https://open.spotify.com/episode/5M4ghNl16ZA3Cnx41KWQRy?si=2ead39bbfa874caf
 - Used **spoofed email addresses** that closely resembled legitimate ones to ask for payment of the fraudulent invoices
 - After they succesfully did this to Facebook, they foundout that Quanta Computer was also a suppler of Google, and simply used the same Social engineering + BEC approach to succesfully steal money from Google in the same way.
   
-### End Game
+## End Game
 - Despite extensive efforts transfering the money around to avoiding a tracking, Evaldas was captured due to a basic mistake. He used his own personal email to register the similar domain used for the BEC.
 - He got sentenced to five years in prison and a fine of 26 million USD
 - Not known what haoppened to his co-conspiritors
 - With government help Facebook and Google managed to get most of the lost money back
 
-### Takeaways
+## Takeaways
 - Even large companies can get hit, by very small teams
 - BEC scams like this are not new, and remain a common attack
 - Some technical action could be done to avoid this, like tools that automatically recognize/block e-mails from lookalike/new/false domains
