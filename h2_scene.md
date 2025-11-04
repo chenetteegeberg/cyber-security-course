@@ -77,12 +77,6 @@ https://cacm.acm.org/research/users-are-not-the-enemy/
 - They explored how generative AI makes social engineering stronger through fake but realistic content, advanced targeting and automated attacks.
 - This demonstrates the limitations of awareness-only campaigns and the growing need for holistic security that combines people, processes, and technology.
 
-## Holistic cyber security protection
-The attack clearly shows why all three areas of cybersecurity, technology, people, and processes, need to work together. 
-- Even technically advanced companies can be vulnerable when internal processes and policies fail. 
-- There are technological protections that could help prevent such attacks today, but in reality, technology alone will never be enough, because the goalpost is always moving.
-- For the same reason, people cannot know everything. Employees can be trained to be more suspicious (SCAM model) and aware of risks, but they cannot be expected to catch every threat, especially now when AI makes fake content, messages, and identities look more convincing than ever.
-
 ## Conclusion cyber security protection must be holistic
 The attack clearly shows why all three areas of cybersecurity, technology, people, and processes, need to work together. 
 - Even technically advanced companies can be vulnerable when internal processes and policies fail. 
