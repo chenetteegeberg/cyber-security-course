@@ -5,9 +5,13 @@ https://open.spotify.com/episode/5M4ghNl16ZA3Cnx41KWQRy?si=2ead39bbfa874caf
 *What do you get when you combine social engineering, email, crime, finance, and the money stream flowing through big tech? Evaldas Rimašauskas comes to mind. He combined all these to make his big move. A whale of a move.*
 
 **Who:** Evaldas Rimasauskas, a Lithuanian national.
+
 **When:** From 2012 – 2015; convicted in 2019.
+
 **Targets:** Facebook and Google, but main focus in the Podcast is on Facebook
+
 **What:** Sent fraudulent invoices, contracts, and letters to Google and Facebook employees, impersonating the real supplier stealing 98 million USD from Facebook and 23 million USD from Google
+
 **Methods:** Social engineering, Business email comprimise (BEC), Forgery, Wire Fraud
 
 ### How it happened
