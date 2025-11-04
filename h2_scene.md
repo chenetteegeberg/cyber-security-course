@@ -5,13 +5,13 @@ Episode 124 from September 20, 2022 by Jack Rhysider
 
 https://open.spotify.com/episode/5M4ghNl16ZA3Cnx41KWQRy?si=2ead39bbfa874caf 
 
-## What happened
+### What happened
 This podcast is about an attack on Facebook and Google that took place from 2012 to 2015, where Evaldas Rimasauskas sent fraudulent invoices to Google and Facebook employees, impersonating a real supplier and sucessfully stealing 98 million USD from Facebook and 23 million USD from Google.
 
 **Methods:**
 - Social engineering, Business email comprimise (BEC), Forgery, Wire Fraud
 
-## How it happened
+### How it happened
 
 - Evaldas and his team **Used social engineering** through **many contacts over a longer period of time** to collect bits and pieces of information
 - They started by making regular customer service calls asking innocent questions about who to contact or how bills were paid, for example by pretending to be publically known contractors, or contacting publically known contracters.
@@ -23,7 +23,7 @@ This podcast is about an attack on Facebook and Google that took place from 2012
 - Used **spoofed email addresses** that closely resembled legitimate ones to ask for payment of the fraudulent invoices
 - After they succesfully did this to Facebook, they foundout that Quanta Computer was also a suppler of Google, and simply used the same Social engineering + BEC approach to succesfully steal money from Google in the same way.
   
-## End Game
+### End Game
 - Despite extensive efforts transfering the money around to avoiding a tracking, Evaldas was captured due to a basic mistake. He used his own personal email to register the similar domain used for the BEC.
 - He got sentenced to five years in prison and a fine of 26 million USD
 - Not known what haoppened to his co-conspiritors
@@ -45,7 +45,7 @@ https://www.darkreading.com/cybersecurity-operations/why-take9-will-not-improve-
 
 The blog post is about the Take9 cyber security awareness campaign, which tells users to pause for nine seconds before taking online actions.
 
-## Main points
+### Main points
 - The authors argue that Take9 won’t make people or systems safer, because it asks users to fix a problem that comes from poor system design, not lack of patience.
 - They highlight that this kind of advice is not realistic — no one can pause that long hundreds of times a day and that similar ideas like “Stop. Think. Connect.” have already failed in the past.
 - They say that problem isn’t that people act too fast, but that they don’t have enough knowledge or context to tell what’s safe and what isn’t.
