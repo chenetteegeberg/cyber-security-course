@@ -1,10 +1,11 @@
 # a) Darknet Diaries Podcast Summary: Synthetic Remittance 
-September 20, 2022 
-*What do you get when you combine social engineering, email, crime, finance, and the money stream flowing through big tech? Evaldas Rimašauskas comes to mind. He combined all these to make his big move. A whale of a move.*
+*"What do you get when you combine social engineering, email, crime, finance, and the money stream flowing through big tech? Evaldas Rimašauskas comes to mind. He combined all these to make his big move. A whale of a move."*  
+
+Episode 124 from September 20, 2022 by Jack Rhysider
+https://open.spotify.com/episode/5M4ghNl16ZA3Cnx41KWQRy?si=2ead39bbfa874caf 
+
 
 Jack Rhysider
-
-https://open.spotify.com/episode/5M4ghNl16ZA3Cnx41KWQRy?si=2ead39bbfa874caf 
 
 **Targets:** 
 Facebook and Google, but main focus in the Podcast is on Facebook
@@ -45,12 +46,13 @@ Evaldas Rimasauskas, a Lithuanian national.
 - Cyber security is everyones responsibility
 
 # b) Blog Article Summary: Why Take9 Won't Improve Cybersecurity
-May 28, 2025
-*The latest cybersecurity awareness campaign asks users to pause for nine seconds before clicking — but this approach misplaces responsibility and ignores the real problems of system design.*
 
-Bruce Schneier, Arun Vishwanath
+*"The latest cybersecurity awareness campaign asks users to pause for nine seconds before clicking — but this approach misplaces responsibility and ignores the real problems of system design."* 
 
+Blog post from May 28, 2025 by Bruce Schneier, Arun Vishwanath 
 https://www.darkreading.com/cybersecurity-operations/why-take9-will-not-improve-cybersecurity
+
+
 
 
 
