@@ -17,14 +17,20 @@ Then I installed Virtual Box version 7.2.4 (amd64)
 - I got a warning about a missing Python Core package, which could be installed later:
 *The package was not needed for the current task, but may ofcourse be needed to do later in the course*
 <img width="523" height="419" alt="Screenshot 2025-11-05 200619" src="https://github.com/user-attachments/assets/4641b893-025a-4918-aafd-6cf8e775260c" />
+
 - The installation completed:
 <img width="486" height="391" alt="image" src="https://github.com/user-attachments/assets/411446c4-e256-4b14-b42e-a0f21b67c7e1" />
 
 Then I used Virtual Box to create a virtual partition for installing Debian
 - First I chose New:
+- <img width="485" height="367" alt="Screenshot 2025-11-11 165305" src="https://github.com/user-attachments/assets/fb315016-76e8-41b5-a08c-05d105b48756" />
+
 <img width="3440" height="2520" alt="image" src="https://github.com/user-attachments/assets/717a212e-927d-4134-906c-8368365d350a" />
 - Then entered the virtual machine name, checked location, selected the Bebian image for the linux installation, selected the OS version Debian 13 Trixie (64 bit), and **un**selected the "Proceed with Unattended installation" checkbox:
 <img width="793" height="548" alt="image" src="https://github.com/user-attachments/assets/89c89f34-f9db-4f72-8602-eaa635a39381" />
+AS this is my Xth time doing this, and just doing it for these screenshots for the report, I this time forgot to set the
+<img width="793" height="548" alt="Screenshot 2025-11-11 170615" src="https://github.com/user-attachments/assets/b4cc3525-3f43-4749-88fa-3d7c6e9bd4c4" />
+
 
 Then I used I installed Debian on the virtual partition 
 - I clicked start in Virtual Box to start the created virtual machine
