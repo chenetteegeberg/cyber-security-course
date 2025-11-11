@@ -9,7 +9,7 @@ The article outlines some basic useful information and commands needed to use in
 
 The purpose with this task was to setup a secure environment for exploring basic hacking methods.
 
-First I downloaded the following files: 
+##### First I downloaded the following files: 
 - Virtual box from https://virtualbox.org/  
 - Linux Debian 13-Trixie installation from wwww.debian.org Download "Live Xfce" directly from [here](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-13.1.0-amd64-xfce.iso) 
  
@@ -24,8 +24,7 @@ First I downloaded the following files:
  
 <img width="486" height="391" alt="image" src="https://github.com/user-attachments/assets/411446c4-e256-4b14-b42e-a0f21b67c7e1" /> 
  
- 
-Then I used Virtual Box to create a virtual partition for installing Debian
+##### Then I used Virtual Box to create a virtual partition for installing Debian
  
 - First I chose New:
  
@@ -42,7 +41,7 @@ Then I used Virtual Box to create a virtual partition for installing Debian
   - Min. 40 GB harddrive 
 - *As this is my Xth time doing this (on several different machines), I am **not** starting over again, just for the screenshots*
 
-- 
+___________
 <img width="793" height="548" alt="image" src="https://github.com/user-attachments/assets/89c89f34-f9db-4f72-8602-eaa635a39381" />
 AS this is my Xth time doing this, and just doing it for these screenshots for the report, I this time forgot to set the
 <img width="793" height="548" alt="Screenshot 2025-11-11 170615" src="https://github.com/user-attachments/assets/b4cc3525-3f43-4749-88fa-3d7c6e9bd4c4" />
