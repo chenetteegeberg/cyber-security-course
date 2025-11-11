@@ -1,9 +1,8 @@
 # Command Line Basics
 
-Highlights from https://terokarvinen.com/2020/command-line-basics-revisited/
-
-The article outlines some basic useful information and commands needed to use in the Terminal
-- ...
+Highlights from the article https://terokarvinen.com/2020/command-line-basics-revisited/
+- The article outlines some basic useful information and commands needed to use in the Terminal.
+- As was written in the article I also found that in particularly the tab function is helpful to avoid types
 
 # Installing Linux on a virtual machine
 
@@ -39,22 +38,28 @@ The purpose with this task was to setup a secure environment for exploring basic
     *As this is my Xth time doing this (on several different machines), I am **not** starting over again, just for the screenshots*
 
 ##### Then I installed Debian on the virtual partition 
-- I clicked start in Virtual Box to start the created virtual machine and pressed enter at the boot screen to boot from the Live environment
+- Clicked start in Virtual Box to start the created virtual machine and pressed enter at the boot screen to boot from the Live environment
 <img width="423" height="241" alt="Screenshot 2025-11-11 170910" src="https://github.com/user-attachments/assets/e3b28ffd-fb0f-408e-b368-84aebb04d1e7" />
 <img width="643" height="569" alt="Screenshot 2025-11-11 171016" src="https://github.com/user-attachments/assets/1eb07895-23ca-4b21-8934-703432a87a69" />
 
-- After a bit of waiting time starting the Debian installation
+- After a bit of waiting time started the Debian installation
 - <img width="603" height="544" alt="Screenshot 2025-11-11 171801" src="https://github.com/user-attachments/assets/bf43c6a8-9e6f-4f98-a24b-78ea3cafbdcc" />
-
-- <img width="637" height="591" alt="image" src="https://github.com/user-attachments/assets/5a784c97-395d-4190-a2ad-a06001c60bd4" />
-Choosing Language, location, keyboardlayout, and Proceeding to choose to erase the disk (on the virtual machine)
+Chose Language, location, keyboardlayout, and choose to erase the disk (on the virtual machine), and set up the PC details and a user
 <img width="1179" height="874" alt="image" src="https://github.com/user-attachments/assets/942fafc3-86ef-4ef1-b4da-e278f5088cb5" />
 
-- I installed Virtualbox from https://virtualbox.org/
-- 
+##### Logging in with the new user
+- Initially i had to log in with the default debian account
+- then I restarted the Debian in the virtual machine to log in with my own user
 
 # Cracking Passwords with Hashcat
 
+I followed the instructions at
 Highlights from https://terokarvinen.com/2020/command-line-basics-revisited/](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
-- 
+- Learned the value of tab the hard way
+- I really could have used a copy-paste possibility between the real and virtual machine for entering the hash initially
+- But atleast the second time I could use arrow up to reuse it from earlier
+
+
+
+<img width="1053" height="626" alt="image" src="https://github.com/user-attachments/assets/9f18e93a-bea3-4646-bcad-1be4b4b04e6f" />
 
