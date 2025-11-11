@@ -60,6 +60,11 @@ Highlights from https://terokarvinen.com/2020/command-line-basics-revisited/](ht
 - But atleast the second time I could use arrow up to reuse it from earlier
 
 
+<img width="1050" height="625" alt="image" src="https://github.com/user-attachments/assets/5aa449af-4532-4d17-9f39-f30d6dfa146a" />
+
+
+<img width="1056" height="626" alt="image" src="https://github.com/user-attachments/assets/b2fb3949-903d-4a79-8250-2eda8577c899" />
+
 
 <img width="1053" height="626" alt="image" src="https://github.com/user-attachments/assets/9f18e93a-bea3-4646-bcad-1be4b4b04e6f" />
 
