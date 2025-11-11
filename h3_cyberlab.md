@@ -23,10 +23,19 @@ Then I installed Virtual Box version 7.2.4 (amd64)
 
 Then I used Virtual Box to create a virtual partition for installing Debian
 - First I chose New:
-- <img width="485" height="367" alt="Screenshot 2025-11-11 165305" src="https://github.com/user-attachments/assets/fb315016-76e8-41b5-a08c-05d105b48756" />
+<img width="388" height="160" alt="Screenshot 2025-11-11 165305" src="https://github.com/user-attachments/assets/aa454ab9-8046-4870-86e3-31766dc83e98" />
 
-<img width="3440" height="2520" alt="image" src="https://github.com/user-attachments/assets/717a212e-927d-4134-906c-8368365d350a" />
 - Then entered the virtual machine name, checked location, selected the Bebian image for the linux installation, selected the OS version Debian 13 Trixie (64 bit), and **un**selected the "Proceed with Unattended installation" checkbox:
+<img width="793" height="548" alt="Screenshot 2025-11-11 170615" src="https://github.com/user-attachments/assets/3c2651e9-7050-42eb-b233-ddd2126aad7a" />
+
+- This time around, when only collecting screenshots, I forgot to specify the virtual hardware and virtual hard disk.
+- But on my previous rounds I have set them to:
+  - Memory to 4MB or 8MB
+  - A couple of extra CPUS
+  - Min. 40 GB harddrive 
+- **As this is my *X*th time doing this (on several different machines), I am **not** starting over again, just for the screenshots**
+
+- 
 <img width="793" height="548" alt="image" src="https://github.com/user-attachments/assets/89c89f34-f9db-4f72-8602-eaa635a39381" />
 AS this is my Xth time doing this, and just doing it for these screenshots for the report, I this time forgot to set the
 <img width="793" height="548" alt="Screenshot 2025-11-11 170615" src="https://github.com/user-attachments/assets/b4cc3525-3f43-4749-88fa-3d7c6e9bd4c4" />
