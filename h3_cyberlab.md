@@ -30,16 +30,14 @@ The purpose with this task was to setup a secure environment for exploring basic
 <img width="388" height="160" alt="Screenshot 2025-11-11 165305" src="https://github.com/user-attachments/assets/aa454ab9-8046-4870-86e3-31766dc83e98" /> 
  
 - Then entered the virtual machine name, checked location, selected the Bebian image for the linux installation, selected the OS version Debian 13 Trixie (64 bit), and **un**selected the "Proceed with Unattended installation" checkbox:
-<img width="793" height="548" alt="Screenshot 2025-11-11 170615" src="https://github.com/user-attachments/assets/3c2651e9-7050-42eb-b233-ddd2126aad7a" /> 
-
-- First I chose New:
-- Then entered the virtual machine name, checked location, selected the Bebian image for the linux installation, selected the OS version Debian 13 Trixie (64 bit), and **un**selected the "Proceed with Unattended installation" checkbox
-
-This time around, when only collecting screenshots, I forgot to specify the virtual hardware and virtual hard disk. But on my previous rounds I have set them to:
+<img width="793" height="548" alt="Screenshot 2025-11-11 170615" src="https://github.com/user-attachments/assets/3c2651e9-7050-42eb-b233-ddd2126aad7a" />
+ 
+- I entered the virtual machine name, checked location, selected the Bebian image for the linux installation, selected the OS version Debian 13 Trixie (64 bit), and **un**selected the "Proceed with Unattended installation" checkbox
+- But this time around, when only collecting screenshots, I forgot to specify the virtual hardware and virtual hard disk. But on my previous rounds I have set them to:
   - Memory to 4MB or 8MB
   - A couple of extra CPUS
-  - Min. 40 GB harddrive 
-*As this is my Xth time doing this (on several different machines), I am **not** starting over again, just for the screenshots*
+  - Min. 40 GB harddrive
+    *As this is my Xth time doing this (on several different machines), I am **not** starting over again, just for the screenshots*
 
 ___________
 <img width="793" height="548" alt="image" src="https://github.com/user-attachments/assets/89c89f34-f9db-4f72-8602-eaa635a39381" />
