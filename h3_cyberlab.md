@@ -31,8 +31,10 @@ Then I used I installed Debian on the virtual partition
 <img width="423" height="241" alt="image" src="https://github.com/user-attachments/assets/0e89865e-d486-4ea0-b460-5773fc9cd472" />
 - Pressed Enter to boot from the live 
 <img width="643" height="569" alt="image" src="https://github.com/user-attachments/assets/fa5aeb31-be36-48a4-bcf3-066a0bbfa508" />
-- and after a minute clicking Install debian
+- and after a minute starting the Debian installation
 - <img width="637" height="591" alt="image" src="https://github.com/user-attachments/assets/5a784c97-395d-4190-a2ad-a06001c60bd4" />
+Choosing Language, location, keyboardlayout, and Proceeding to choose to erase the disk (on the virtual machine)
+<img width="1179" height="874" alt="image" src="https://github.com/user-attachments/assets/942fafc3-86ef-4ef1-b4da-e278f5088cb5" />
 
 - I installed Virtualbox from https://virtualbox.org/
 - 
