@@ -38,14 +38,11 @@ The purpose with this task was to setup a secure environment for exploring basic
   - Min. 40 GB harddrive
     *As this is my Xth time doing this (on several different machines), I am **not** starting over again, just for the screenshots*
 
-___________
-<img width="793" height="548" alt="image" src="https://github.com/user-attachments/assets/89c89f34-f9db-4f72-8602-eaa635a39381" />
-AS this is my Xth time doing this, and just doing it for these screenshots for the report, I this time forgot to set the
-<img width="793" height="548" alt="Screenshot 2025-11-11 170615" src="https://github.com/user-attachments/assets/b4cc3525-3f43-4749-88fa-3d7c6e9bd4c4" />
+##### Then I installed Debian on the virtual partition 
+- I clicked start in Virtual Box to start the created virtual machine and pressed enter at the boot screen to boot from the Live environment
+<img width="423" height="241" alt="Screenshot 2025-11-11 170910" src="https://github.com/user-attachments/assets/e3b28ffd-fb0f-408e-b368-84aebb04d1e7" />
+<img width="643" height="569" alt="Screenshot 2025-11-11 171016" src="https://github.com/user-attachments/assets/1eb07895-23ca-4b21-8934-703432a87a69" />
 
-
-Then I used I installed Debian on the virtual partition 
-- I clicked start in Virtual Box to start the created virtual machine
 <img width="423" height="241" alt="image" src="https://github.com/user-attachments/assets/0e89865e-d486-4ea0-b460-5773fc9cd472" />
 - Pressed Enter to boot from the live 
 <img width="643" height="569" alt="image" src="https://github.com/user-attachments/assets/fa5aeb31-be36-48a4-bcf3-066a0bbfa508" />
