@@ -13,17 +13,25 @@ First I downloaded the following files:
 - Virtual box from https://virtualbox.org/ 
 - Linux Debian 13-Trixie installation from wwww.debian.org Download "Live Xfce" directly from [here](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-13.1.0-amd64-xfce.iso)
 
+
 Then I installed Virtual Box version 7.2.4 (amd64)
 - I got a warning about a missing Python Core package, which could be installed later:
-*The package was not needed for the current task, but may ofcourse be needed to do later in the course*
+
 <img width="523" height="419" alt="Screenshot 2025-11-05 200619" src="https://github.com/user-attachments/assets/4641b893-025a-4918-aafd-6cf8e775260c" />
 
+*The package was not needed for the current task, but may ofcourse be needed to do later in the course*
+
 - The installation completed:
+
 <img width="486" height="391" alt="image" src="https://github.com/user-attachments/assets/411446c4-e256-4b14-b42e-a0f21b67c7e1" />
 
+
 Then I used Virtual Box to create a virtual partition for installing Debian
+
 - First I chose New:
+
 <img width="388" height="160" alt="Screenshot 2025-11-11 165305" src="https://github.com/user-attachments/assets/aa454ab9-8046-4870-86e3-31766dc83e98" />
+
 
 - Then entered the virtual machine name, checked location, selected the Bebian image for the linux installation, selected the OS version Debian 13 Trixie (64 bit), and **un**selected the "Proceed with Unattended installation" checkbox:
 <img width="793" height="548" alt="Screenshot 2025-11-11 170615" src="https://github.com/user-attachments/assets/3c2651e9-7050-42eb-b233-ddd2126aad7a" />
@@ -33,7 +41,7 @@ Then I used Virtual Box to create a virtual partition for installing Debian
   - Memory to 4MB or 8MB
   - A couple of extra CPUS
   - Min. 40 GB harddrive 
-- **As this is my *X*th time doing this (on several different machines), I am **not** starting over again, just for the screenshots**
+- *As this is my Xth time doing this (on several different machines), I am **not** starting over again, just for the screenshots*
 
 - 
 <img width="793" height="548" alt="image" src="https://github.com/user-attachments/assets/89c89f34-f9db-4f72-8602-eaa635a39381" />
