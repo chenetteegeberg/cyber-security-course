@@ -15,8 +15,9 @@ First I downloaded the following files:
 
 Then I installed virtualbox version 7.2.4 (amd64)
 - I got a warning about a missing Python Core package, which can be installed later:
-  - <img align="left" width="487" height="385" alt="image" src="https://github.com/user-attachments/assets/14a01c1b-f2da-45e0-8b6a-4b867a40c445" />
-  - *This was not needed for the current task, but may ofcourse be needed to do later in the course*
+<img align="left" width="487" height="385" alt="image" src="https://github.com/user-attachments/assets/14a01c1b-f2da-45e0-8b6a-4b867a40c445" />
+
+*This was not needed for the current task, but may ofcourse be needed to do later in the course*
 - <img width="486" height="391" alt="image" src="https://github.com/user-attachments/assets/411446c4-e256-4b14-b42e-a0f21b67c7e1" />
 
 Then I used Virtualbox to craete a virtual partition for installing Debian
