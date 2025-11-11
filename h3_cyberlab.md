@@ -21,7 +21,8 @@ The purpose with this task was to setup a secure environment for exploring basic
 *The package was not needed for the current task, but may ofcourse be needed to do later in the course*
  
 - The installation completed:
-  <img width="486" height="391" alt="image" src="https://github.com/user-attachments/assets/411446c4-e256-4b14-b42e-a0f21b67c7e1" /> 
+
+<img width="486" height="391" alt="image" src="https://github.com/user-attachments/assets/411446c4-e256-4b14-b42e-a0f21b67c7e1" /> 
  
 ##### Then I used Virtual Box to create a virtual partition for installing Debian
  
