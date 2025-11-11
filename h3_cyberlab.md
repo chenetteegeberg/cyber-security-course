@@ -43,10 +43,9 @@ The purpose with this task was to setup a secure environment for exploring basic
 <img width="423" height="241" alt="Screenshot 2025-11-11 170910" src="https://github.com/user-attachments/assets/e3b28ffd-fb0f-408e-b368-84aebb04d1e7" />
 <img width="643" height="569" alt="Screenshot 2025-11-11 171016" src="https://github.com/user-attachments/assets/1eb07895-23ca-4b21-8934-703432a87a69" />
 
-<img width="423" height="241" alt="image" src="https://github.com/user-attachments/assets/0e89865e-d486-4ea0-b460-5773fc9cd472" />
-- Pressed Enter to boot from the live 
-<img width="643" height="569" alt="image" src="https://github.com/user-attachments/assets/fa5aeb31-be36-48a4-bcf3-066a0bbfa508" />
-- and after a minute starting the Debian installation
+- After a bit of waiting time starting the Debian installation
+- <img width="603" height="544" alt="Screenshot 2025-11-11 171801" src="https://github.com/user-attachments/assets/bf43c6a8-9e6f-4f98-a24b-78ea3cafbdcc" />
+
 - <img width="637" height="591" alt="image" src="https://github.com/user-attachments/assets/5a784c97-395d-4190-a2ad-a06001c60bd4" />
 Choosing Language, location, keyboardlayout, and Proceeding to choose to erase the disk (on the virtual machine)
 <img width="1179" height="874" alt="image" src="https://github.com/user-attachments/assets/942fafc3-86ef-4ef1-b4da-e278f5088cb5" />
@@ -57,5 +56,5 @@ Choosing Language, location, keyboardlayout, and Proceeding to choose to erase t
 # Cracking Passwords with Hashcat
 
 Highlights from https://terokarvinen.com/2020/command-line-basics-revisited/](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
--
+- 
 
