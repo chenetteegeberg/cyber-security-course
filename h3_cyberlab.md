@@ -25,17 +25,19 @@ The purpose with this task was to setup a secure environment for exploring basic
  
 ##### Then I used Virtual Box to create a virtual partition for installing Debian
  
-<img width="388" height="160" alt="Screenshot 2025-11-11 165305" src="https://github.com/user-attachments/assets/aa454ab9-8046-4870-86e3-31766dc83e98" /> 
- 
-<img width="793" height="548" alt="Screenshot 2025-11-11 170615" src="https://github.com/user-attachments/assets/3c2651e9-7050-42eb-b233-ddd2126aad7a" />
-
- 
 - I entered the virtual machine name, checked location, selected the Bebian image for the linux installation, selected the OS version Debian 13 Trixie (64 bit), and **un**selected the "Proceed with Unattended installation" checkbox
 - But this time around, when only collecting screenshots, I forgot to specify the virtual hardware and virtual hard disk. But on my previous rounds I have set them to:
   - Memory to 4MB or 8MB
   - A couple of extra CPUS
   - Min. 40 GB harddrive
     *As this is my Xth time doing this (on several different machines), I am **not** starting over again, just for the screenshots*
+    
+ 
+<img width="388" height="160" alt="Screenshot 2025-11-11 165305" src="https://github.com/user-attachments/assets/aa454ab9-8046-4870-86e3-31766dc83e98" /> 
+ 
+<img width="793" height="548" alt="Screenshot 2025-11-11 170615" src="https://github.com/user-attachments/assets/3c2651e9-7050-42eb-b233-ddd2126aad7a" />
+
+
 
 ##### Then I installed Debian on the virtual partition 
 - Clicked start in Virtual Box to start the created virtual machine and pressed enter at the boot screen to boot from the Live environment
@@ -60,11 +62,9 @@ Highlights from https://terokarvinen.com/2020/command-line-basics-revisited/](ht
 - But atleast the second time I could use arrow up to reuse it from earlier
 
 
-<img width="1050" height="625" alt="image" src="https://github.com/user-attachments/assets/5aa449af-4532-4d17-9f39-f30d6dfa146a" />
-
-
-<img width="1056" height="626" alt="image" src="https://github.com/user-attachments/assets/b2fb3949-903d-4a79-8250-2eda8577c899" />
-
-
-<img width="1053" height="626" alt="image" src="https://github.com/user-attachments/assets/9f18e93a-bea3-4646-bcad-1be4b4b04e6f" />
+<img width="1056" height="626" alt="image" src="https://github.com/user-attachments/assets/b2fb3949-903d-4a79-8250-2eda8577c899" /> 
+ 
+<img width="1050" height="625" alt="image" src="https://github.com/user-attachments/assets/5aa449af-4532-4d17-9f39-f30d6dfa146a" /> 
+ 
+<img width="1053" height="626" alt="image" src="https://github.com/user-attachments/assets/9f18e93a-bea3-4646-bcad-1be4b4b04e6f" /> 
 
